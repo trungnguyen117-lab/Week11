@@ -1,11 +1,15 @@
+Nguyễn Trung Nguyên
+
+Mã số sinh viên: 22024553
+
 Ảnh 1:
-![alt text](image.png)
+![](image.png)
 
 Ảnh 2:
-![alt text](image-1.png)
+![](image-1.png)
 
 Ảnh 3:
-![alt text](image-2.png)
+![](image-2.png)
 
 Ảnh 4:
-![alt text](image-3.png)
+![](image-3.png)
